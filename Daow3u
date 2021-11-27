@@ -9,7 +9,7 @@
  
     {
       "name": "ຊ່ອງເຕະບານ",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbqSwzzZYG4HF9CiVQpOkvAfouNSzAwOqcQp4CKOMPww8k_jP9A",
+      "image": "https://ufacompany.com/wp-content/uploads/2021/09/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%992.jpg",
       
       "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ.",
       "stations": [
@@ -55,7 +55,37 @@
                    "url": "https://liveballthai.com/wp-live/live/723260/epl5",
                         "embed" : true
  },
- 
+   {
+          "name": "truesporthd2",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4102.png",
+                   "url": "https://liveballthai.com/wp-live/live/723267/truesporthd2",
+                        "embed" : true
+ },
+    {
+          "name": "pptv",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1593.png",
+                   "url": "https://liveballthai.com/wp-live/live/700640/pptv",
+                        "embed" : true
+ },
+    {
+          "name": "btsport1",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--97.png",
+                   "url": "https://liveballthai.com/wp-live/live/739372/btsport1",
+                        "embed" : true
+ },
+     {
+          "name": "btsport2",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--100.png",
+                   "url": "https://liveballthai.com/wp-live/live/739372/btsport2",
+                        "embed" : true
+ },
+    {
+          "name": "btsport3",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--108.png",
+                   "url": "https://liveballthai.com/wp-live/live/739372/btsport3",
+                        "embed" : true
+ },
+
  
          ]
 }
@@ -67,7 +97,7 @@
  
  
  
-       ]
+       ] 
     }
  
       ]
