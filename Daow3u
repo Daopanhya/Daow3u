@@ -1,0 +1,74 @@
+
+{
+  "name": "Daopanhya-IPTV",
+  "author": "by Mr.Daopanhya",
+  "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ",
+"image": "https://pbs.twimg.com/media/FCnh26nVIAULCwm?format=jpg&name=medium",
+  "groups": [
+ 
+ 
+    {
+      "name": "ຊ່ອງເຕະບານ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbqSwzzZYG4HF9CiVQpOkvAfouNSzAwOqcQp4CKOMPww8k_jP9A",
+      
+      "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ.",
+      "stations": [
+ {
+          "name": "beinsport1_480p",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+                   "url": "https://liveballthai.com/wp-live/live/739362/bein1",
+                        "embed" : true
+ },
+  {
+          "name": "beinsport2_480p",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+                   "url": "https://liveballthai.com/wp-live/live/739362/bein2",
+                        "embed" : true
+ },
+  {
+          "name": "trueepl1_480p",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4106.png",
+                   "url": "https://liveballthai.com/wp-live/live/723260/epl1",
+                        "embed" : true
+ },
+  {
+          "name": "trueepl2_480p",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4107.png",
+                   "url": "https://liveballthai.com/wp-live/live/723260/epl2",
+                        "embed" : true
+ },
+  {
+          "name": "trueepl3_480p",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4108.png",
+                   "url": "https://liveballthai.com/wp-live/live/723260/epl3",
+                        "embed" : true
+ },
+  {
+          "name": "trueepl4_480p",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4109.png",
+                   "url": "https://liveballthai.com/wp-live/live/723260/epl4",
+                        "embed" : true
+ },
+  {
+          "name": "trueepl5_480p",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4110.png",
+                   "url": "https://liveballthai.com/wp-live/live/723260/epl5",
+                        "embed" : true
+ },
+ 
+ 
+         ]
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       ]
+    }
+ 
+      ]
+}
