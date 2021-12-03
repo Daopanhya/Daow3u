@@ -8,7 +8,7 @@
  
  
     {
-      "name": "ຊ່ອງເຕະບານ",
+      "name": "ຊ່ອງເຕະບານ Sports",
       "image": "https://ufacompany.com/wp-content/uploads/2021/09/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%992.jpg",
       
       "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ.",
@@ -79,18 +79,7 @@
                    "url": "https://www.goalclublive.com/LiveTable/channel/truesport7",
                         "embed" : true
  },
-     {
-          "name": "tsports",
-                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1593.png",
-                   "url": "https://www.goalclublive.com/LiveTable/channel/tsports",
-                        "embed" : true
- },
-    {
-          "name": "pptv",
-                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1593.png",
-                   "url": "https://www.goalclublive.com/LiveTable/channel/pptv",
-                        "embed" : true
- },
+
     {
           "name": "btsport1",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--97.png",
@@ -186,12 +175,139 @@
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4546.png",
                    "url": "https://www.goalclublive.com/LiveTable/channel/baygonhero8",
                         "embed" : true
- },
+ }
          ]
-}
+},
  
- 
- 
+     {
+      "name": "ຊ່ອງລາວ Lao TV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDEaXX-k-pGjF42ZXE8SEKwNf6dozWv05iA&usqp=CAU",
+      
+      "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ.",
+      "stations": [
+ {
+          "name": "MVLAO (720p)",
+                    "image": "https://www.tvjaa.com/storage/tv-channels/mv.png",
+                   "url": "https://edge6a.v2h-cdn.com/m2h7/MVLAO.stream_720p/playlist.m3u8"
+      },       
+
+      ]
+ },
+      {
+      "name": "DigitalTV",
+      "image": "https://www.hs3lzx.com/wp-content/uploads/2014/04/doodee-sticker.png",
+      
+      "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ.",
+      "stations": [
+ {
+          "name": "NBT 2 (1080p)",
+                    "image": "https://www.tvjaa.com/storage/tv-channels/nbt2hd.png",
+                   "url": "https://thainews.prd.go.th/lv/live/ch1_L.sdp/playlist.m3u8"
+      },
+    {
+          "name": "TPBS 3 (1080p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/thaipbs.jpg",
+                   "url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
+      },
+       {
+          "name": "ALTV 4 (1080p)",
+                    "image": "https://www.tvjaa.com/storage/tv-channels/altv.png",
+                   "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
+      },
+             {
+          "name": "TV5 HD (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/ch5.jpg",
+                   "url": "https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8"
+      },    
+                   {
+          "name": "Tsports 7 (720p)",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4511.png",
+                   "url": "https://www.goalclublive.com/LiveTable/channel/tsports",
+                    "embed" : true
+      },
+                         {
+          "name": "TPTV 10",
+                    "image": "https://www.tvjaa.com/storage/tv-channels/tptv.png",
+                   "url": "http://host4.dynns.com/stream/e1464d4ef4aa4bbc972073bb4ebe17fd.m3u8"
+      },
+                           {
+          "name": "TNN 16",
+                    "image": "http://mplandtvguide.nbtc.go.th/mplan/img/logo/logo_16.jpg",
+                   "url": "https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8"
+      },   
+                                 {
+          "name": "JKN 18 (720p)",
+                    "image": "https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png",
+                   "url": "https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8"
+      },
+                                       {
+          "name": "Nation TV 22 (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/nation-tv.jpg",
+                   "url": "http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8"
+      },
+                                             {
+          "name": "Workpoint 23 (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/workpoint-tv.jpg",
+                   "url": "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8"
+      },  
+      {
+          "name": "True4U 24 (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/true4u.jpg",
+                   "url": "https://tnnthailand-msqo7x.cdn.byteark.com/live/pl_720p/index.m3u8"
+      }, 
+      {
+          "name": "GMM 25 (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/gmm25.jpg",
+                   "url": "https://tnnthailand-msqo7x.cdn.byteark.com/live/pl_720p/index.m3u8"
+      }, 
+      {
+          "name": "CH8 27",
+                    "image": "http://www.onlinethailand.net/tv_online/images/ch8.jpg",
+                   "url": "https://freelive2.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8"
+      },
+      {
+          "name": "MONO 29 (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/mono29.jpg",
+                   "url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist_w1617953411.m3u8"
+      },   
+      {
+          "name": "MCOTHD 30 (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/ch9.jpg",
+                   "url": "http://live2.dootvde.com/live/50004_ch9.stream.smil/chunklist_w1187984951_b4692000_slThai.m3u8"
+      }, 
+      {
+          "name": "ONE 31 (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/gmm-one.jpg",
+                   "url": "http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8"
+      },    
+      {
+          "name": "ไทยรัฐทีวี (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/thairath-tv.jpg",
+                   "url": "https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8"
+      },  
+      {
+          "name": "CH3 HD 33 (720p)",
+                    "image": "https://www.tvjaa.com/storage/tv-channels/3hd.png",
+                   "url": "http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8"
+      }, 
+      {
+          "name": "AmarinHD TV 34 (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/amarin-tv.jpg",
+                   "url": "http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w1526294582_b4692000_slThai.m3u8"
+      },
+      {
+          "name": "CH7HD 35 (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/ch7hd.jpg",
+                   "url": "https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8"
+      },
+      {
+          "name": "PPTVHD 36 (720p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/pptv-hd.jpg",
+                   "url": "http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8"
+     },
+
+      ]
+ },
  
  
  
@@ -202,3 +318,4 @@
  
       ]
 }
+
