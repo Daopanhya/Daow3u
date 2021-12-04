@@ -1,7 +1,7 @@
 
 {
   "name": "Daopanhya-IPTV",
-  "author": "by Mr.Daopanhya",
+  "author": "by Mr.Daopanhya Tel: 02022266995",
   "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ",
 "image": "https://pbs.twimg.com/media/FCnh26nVIAULCwm?format=jpg&name=medium",
   "groups": [
@@ -13,6 +13,12 @@
       
       "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ.",
       "stations": [
+         {
+          "name": "LAOSAT HD ຈານດາວທຽມລາວ ຮັບຊົມເຕະບານຟຣີມີລິກ ແລະ ຢູຟາແຊັບປຽນລິກ",
+                    "image": "https://www.laosat.la/en/images/logo.jpg",
+                   "url": "https://www.facebook.com/ດາວປັນຍາ-ດາວທຽມ-ຈຳໜ່າຍ-ແລະ-ຕິດຕັ້ງຈານດາວທຽມ-108346701501528/",
+                "embed" : true                   
+      },        
  {
           "name": "bein1",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
@@ -22,7 +28,7 @@
   {
           "name": "bein2",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
-                   "url": "https://www.goalclublive.com/LiveTable/channel/bein1",
+                   "url": "https://www.goalclublive.com/LiveTable/channel/bein2",
                         "embed" : true
  },
   {
@@ -58,7 +64,7 @@
     {
           "name": "truesporthd1",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4102.png",
-                   "url": "https://www.goalclublive.com/LiveTable/channel/truesporthd1",
+                   "url": "https://www.goalclublive.com/LiveTable/channel/truesporthd",
                         "embed" : true
  },
    {
@@ -112,7 +118,7 @@
  },
         {
           "name": "skysportpremiere",
-                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--663.png",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png",
                    "url": "https://www.goalclublive.com/LiveTable/channel/skysportpremiere",
                         "embed" : true
  },
@@ -128,6 +134,42 @@
                    "url": "https://www.goalclublive.com/LiveTable/channel/skysportarena",
                         "embed" : true
  },
+        {
+          "name": "MUTV",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--114.png",
+                   "url": "https://www.goalclublive.com/LiveTable/channel/mutv",
+                        "embed" : true
+ }, 
+         {
+          "name": "Premier Sports1",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--95.png",
+                   "url": "https://www.goalclublive.com/LiveTable/channel/premiersports1",
+                        "embed" : true
+ }, 
+        {
+          "name": "Ziggosport Voetbal",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--286.png",
+                   "url": "https://www.goalclublive.com/LiveTable/channel/ziggosportvoetbal",
+                        "embed" : true
+ }, 
+         {
+          "name": "Ziggosport Select",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
+                   "url": "https://www.goalclublive.com/LiveTable/channel/ziggosportselect",
+                        "embed" : true
+ },  
+          {
+          "name": "C More Football",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--482.png",
+                   "url": "https://www.goalclublive.com/LiveTable/channel/cmorefootball",
+                        "embed" : true
+ },  
+           {
+          "name": "C More Live HD",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--484.png",
+                   "url": "https://www.goalclublive.com/LiveTable/channel/cmorelivehd",
+                        "embed" : true
+ },  
     {
           "name": "baygonhero1",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4514.png",
@@ -185,12 +227,70 @@
       
       "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ.",
       "stations": [
+       {
+          "name": "LNTV 1 (YT Live)",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDEaXX-k-pGjF42ZXE8SEKwNf6dozWv05iA&usqp=CAU",
+                   "url": "https://www.youtube.com/user/laochanel1/videos",
+                "embed" : true                   
+      },             
+       {
+          "name": "LNTV 1 (FB Live)",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDEaXX-k-pGjF42ZXE8SEKwNf6dozWv05iA&usqp=CAU",
+                   "url": "https://www.facebook.com/LaoNationalTV/live_videos",
+                "embed" : true                   
+      },                   
+       {
+          "name": "LNTV 3 (FB Live)",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDEaXX-k-pGjF42ZXE8SEKwNf6dozWv05iA&usqp=CAU",
+                   "url": "https://www.facebook.com/LNTV3/live_videos",
+                "embed" : true                   
+      },   
+              {
+          "name": "LAO PSTV (FB Live)",
+                    "image": "https://scontent.fvte1-2.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/163582447_131424672320742_3953227395772443311_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=574b62&_nc_ohc=F_Ah1KHmFFEAX-XE1LR&_nc_ht=scontent.fvte1-2.fna&oh=735e527a6f183986580660bc354103ec&oe=61D28F4E",
+                   "url": "https://www.facebook.com/laopolice/live_videos",
+                "embed" : true                   
+      }, 
  {
           "name": "MVLAO (720p)",
                     "image": "https://www.tvjaa.com/storage/tv-channels/mv.png",
                    "url": "https://edge6a.v2h-cdn.com/m2h7/MVLAO.stream_720p/playlist.m3u8"
-      },       
-
+      },               {
+          "name": "TV LAO HD (FB Live)",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRsgfxmFd97wzUX8eB-HTU9zrNEJ5slQA1Q&usqp=CAU",
+                   "url": "https://www.facebook.com/TVLAO-HD-1987683044624584/live_videos",
+                "embed" : true                   
+      },   
+ {
+          "name": "Lao Star (FB Live)",
+                    "image": "https://scontent.fvte1-2.fna.fbcdn.net/v/t39.30808-1/cp0/e15/q65/p480x480/240837274_5437908319559051_235798853022010699_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=n_Y0KR5YC6EAX-rIqbe&_nc_ht=scontent.fvte1-2.fna&oh=b4f8f3553bf772171f7fb5b61535cb23&oe=61AF235D",
+                   "url": "https://www.facebook.com/laostartv/live_videos",
+                "embed" : true                   
+      },   
+              {
+          "name": "LATV 7 (FB Live)",
+                    "image": "https://scontent.fvte1-2.fna.fbcdn.net/v/t1.6435-1/p480x480/166261625_103780745149167_6384526328009273714_n.png?_nc_cat=110&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=qSNZECxqElIAX-DzQsG&_nc_ht=scontent.fvte1-2.fna&oh=5e505e07500289621d6bca3b8e6e46dc&oe=61CF5EC0",
+                   "url": "https://www.facebook.com/LATV7CHANNEL/live_videos",
+                "embed" : true                   
+      },
+              {
+          "name": "LAO ESTV (FB Live)",
+                    "image": "https://scontent.fvte1-1.fna.fbcdn.net/v/t1.6435-1/cp0/e15/q65/s480x480/97998394_2584523668427464_5095260835870146560_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TcltZhCWae8AX9dlBT3&_nc_oc=AQmeL5BWh6mDD9wdLqrQvZpQlqJkHnr5RTaM-QYzA0NeOj364gdXtNQ0ZwHulLRdz_Q&_nc_ht=scontent.fvte1-1.fna&oh=142963adf191a9938ca527514b7dfbeb&oe=61CFE03A",
+                   "url": "https://www.facebook.com/IMCLaos/live_videos",
+                "embed" : true                   
+      },  
+       {
+          "name": "Vte9 (FB Live)",
+                    "image": "https://scontent.fvte1-2.fna.fbcdn.net/v/t1.6435-1/p480x480/91459307_101031584898144_4033047627510579200_n.png?_nc_cat=1&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=-cl1TOMaVPoAX-uXZHh&_nc_ht=scontent.fvte1-2.fna&oh=a0d31dedf482bbbe3910232a07d3841b&oe=61D028B7",
+                   "url": "https://www.facebook.com/vte9cha/live_videos",
+                "embed" : true                   
+      }, 
+         {
+          "name": "LAOSAT HD ຈານດາວທຽມລາວ ຮັບຊົມຊ່ອງລາວຄົບທຸກຊ່ອງ",
+                    "image": "https://www.laosat.la/en/images/logo.jpg",
+                   "url": "https://www.facebook.com/ດາວປັນຍາ-ດາວທຽມ-ຈຳໜ່າຍ-ແລະ-ຕິດຕັ້ງຈານດາວທຽມ-108346701501528/",
+                "embed" : true                   
+      },                                   
       ]
  },
       {
@@ -199,6 +299,12 @@
       
       "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ.",
       "stations": [
+          {
+          "name": "LAOSAT HD ຈານດາວທຽມລາວ ຮັບຊົມຊ່ອງໄທຄົບທຸກຊ່ອງ",
+                    "image": "https://www.laosat.la/en/images/logo.jpg",
+                   "url": "https://www.facebook.com/ດາວປັນຍາ-ດາວທຽມ-ຈຳໜ່າຍ-ແລະ-ຕິດຕັ້ງຈານດາວທຽມ-108346701501528/",
+                "embed" : true                   
+      },             
  {
           "name": "NBT 2 (1080p)",
                     "image": "https://www.tvjaa.com/storage/tv-channels/nbt2hd.png",
@@ -251,14 +357,14 @@
                    "url": "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8"
       },  
       {
-          "name": "True4U 24 (720p)",
+          "name": "True4U 24 (540p)",
                     "image": "http://www.onlinethailand.net/tv_online/images/true4u.jpg",
-                   "url": "https://tnnthailand-msqo7x.cdn.byteark.com/live/pl_720p/index.m3u8"
+                   "url": "https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8"
       }, 
       {
           "name": "GMM 25 (720p)",
                     "image": "http://www.onlinethailand.net/tv_online/images/gmm25.jpg",
-                   "url": "https://tnnthailand-msqo7x.cdn.byteark.com/live/pl_720p/index.m3u8"
+                   "url": "http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8"
       }, 
       {
           "name": "CH8 27",
@@ -308,7 +414,13 @@
 
       ]
  },
- 
+       {
+      "name": "ດາວປັນຍາ ດາວທຽມ ຈຳໜ່າຍ ແລະ ຕິດຕັ້ງຈານດາວທຽມ ໂທ 02022266995",
+      "image": "https://scontent.fvte1-1.fna.fbcdn.net/v/t39.30808-1/cp0/e15/q65/p480x480/242278399_143028731366658_8447243033319234802_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=DWozKyrIjkYAX8I1Y3v&_nc_ht=scontent.fvte1-1.fna&oh=44f54bf699c87db0a9e5640fdb995e51&oe=61B0F3D6",
+      
+      "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ.",
+      "stations": [
+
  
  
  
