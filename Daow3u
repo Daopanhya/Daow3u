@@ -170,6 +170,16 @@
                    "url": "https://www.goalclublive.com/LiveTable/channel/cmorelivehd",
                         "embed" : true
  },  
+            {
+          "name": "Vtv5",
+                    "image": "https://imageshack.com/a/img921/8820/MNdsLk.jpg",
+                   "url": "http://27.67.50.6:18080/194.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8DJgdljmSWUuDch1BcteJ3tiNRKo4lRoBS1rBmtZFVjb/wRuRm/nboy7Rwkke2CzUowPyIn6dhO6IJqm90Jm+rgZT922QpzJODP1+oqYX69rCRI7EH/VdfROzvOzlEULw9VGaMWaLEwZd7luVxeq6sA6JZLa8+tQnw6Hyk29sih"
+ },  
+             {
+          "name": "Vtv6",
+                    "image": "https://imageshack.com/a/img923/50/FzSQIo.jpg",
+                   "url": "http://27.67.50.6:18080/156.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8U63x1ZE2otR7CN6wvDIvwLCHH4TCoYX8VDfVv+Bvm/ucxRGVg31nAQVz7T7ZnCoU+9ZMHI2VwEVTI8ZT2yHLmG2wLWypBZ2m4l8RZJoRuNSopJwmZL/V3aOQvdrB45WH7SgK7myS5z7BmTbXNYoaO470yxlGpIeWA95Y+75qBl"
+ },  
     {
           "name": "baygonhero1",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4514.png",
@@ -411,7 +421,75 @@
                     "image": "http://www.onlinethailand.net/tv_online/images/pptv-hd.jpg",
                    "url": "http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8"
      },
-
+       ]
+ },
+      {
+      "name": "ຊ່ອງກາຕູນ Kid",
+      "image": "https://pbs.twimg.com/media/EV8E7EoVAAE2r6c.jpg",
+      
+      "info": "⚠ ຄຳເຕືອນ: ຊ່ອງໂທລະພາບສ້າງມາເພື່ອຄວາມບັນເທີງເທົ່ານັ້ນ.",
+      "stations": [
+          {
+          "name": "LAOSAT HD ຈານດາວທຽມລາວ ຮັບຊົມຊ່ອງກາຕູນຄົບທຸກຊ່ອງ",
+                    "image": "https://www.laosat.la/en/images/logo.jpg",
+                   "url": "https://www.facebook.com/ດາວປັນຍາ-ດາວທຽມ-ຈຳໜ່າຍ-ແລະ-ຕິດຕັ້ງຈານດາວທຽມ-108346701501528/",
+                "embed" : true                   
+      },             
+          {
+          "name": "Boomerang (1080p)",
+                    "image": "http://www.onlinethailand.net/tv_online/images/boomerang.jpg",
+                   "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/boomerang/chunklis_w157982604.m3u8"
+      },             
+                {
+          "name": "Toonee (1080p)",
+                    "image": "http://www.aiiztv.com/images/toonee.jpg",
+                   "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/toonee/chunklist.m3u8"
+      }, 
+                {
+          "name": "Cartoon Club (272p)",
+                    "image": "https://tv.guchill.com/images/img_tv/tv/ch67.gif",
+                   "url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8"
+      }, 
+     {
+          "name": "FW TOON",
+                    "image": "https://sv1.picz.in.th/images/2021/06/10/s7OV8k.jpg",
+                   "url": "https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8"
+      },  
+     {
+          "name": "Nick",
+                    "image": "https://sv1.picz.in.th/images/2021/09/03/CTAUO0.jpg",
+                   "url": "https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8"
+      },  
+     {
+          "name": "Nickelodeon",
+                    "image": "https://sv1.picz.in.th/images/2021/09/03/CTA6zV.jpg",
+                   "url": "https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8"
+      },      
+     {
+          "name": "Nick Jr. Dora TV",
+                    "image": "https://sv1.picz.in.th/images/2021/09/03/CTAJaD.jpg",
+                   "url": "https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8"
+      },    
+     {
+          "name": "PBS Kids",
+                    "image": "https://sv1.picz.in.th/images/2021/09/17/CoyL61.png",
+                   "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+      }, 
+     {
+          "name": "ZooMoo",
+                    "image": "https://sv1.picz.in.th/images/2021/09/03/CT2e4E.jpg",
+                   "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+      },  
+      {
+          "name": "Baby First",
+                    "image": "https://sv1.picz.in.th/images/2021/09/17/CDA361.jpg",
+                   "url": "http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8"
+      },  
+      {
+          "name": "KAKU",
+                    "image": "https://www.tvchinese.net/uploads/tv/kaku.jpg",
+                   "url": "http://223.110.243.239:80/PLTV/4/224/3221226305/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=6451"
+      },                      
       ]
  },
        {
@@ -422,8 +500,7 @@
       "stations": [
 
  
- 
- 
+
  
        ]
     }
