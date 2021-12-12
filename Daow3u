@@ -31,6 +31,11 @@
                    "url": "https://www.goalclublive.com/LiveTable/channel/bein2",
                         "embed" : true
  },
+   {
+          "name": "epl1",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4106.png",
+                   "url": "https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8"
+ },
   {
           "name": "epl1",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4106.png",
@@ -40,10 +45,22 @@
   {
           "name": "epl2",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4107.png",
+                   "url": "https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8"
+                    
+ },
+   {
+          "name": "epl2",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4107.png",
                    "url": "https://www.goalclublive.com/LiveTable/channel/epl2",
                         "embed" : true
  },
   {
+          "name": "epl3",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4108.png",
+                   "url": "https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8"
+                        
+ },
+   {
           "name": "epl3",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4108.png",
                    "url": "https://www.goalclublive.com/LiveTable/channel/epl3",
@@ -52,14 +69,30 @@
   {
           "name": "epl4",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4109.png",
+                   "url": "https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8"
+                        
+ },
+   {
+          "name": "epl4",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4109.png",
                    "url": "https://liveballthai.com/wp-live/live/723260/epl4",
                         "embed" : true
  },
   {
           "name": "epl5",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4110.png",
+                   "url": "https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8"
+ },
+   {
+          "name": "epl5",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4110.png",
                    "url": "https://www.goalclublive.com/LiveTable/channel/epl5",
                         "embed" : true
+ },
+    {
+          "name": "truesporthd1",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4102.png",
+                   "url": "https://smart-tv.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8"
  },
     {
           "name": "truesporthd1",
@@ -70,10 +103,20 @@
    {
           "name": "truesporthd2",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4102.png",
+                   "url": "https://smart-tv.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8"
+ },
+    {
+          "name": "truesporthd2",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4102.png",
                    "url": "https://www.goalclublive.com/LiveTable/channel/truesporthd2",
                         "embed" : true
  },
    {
+          "name": "truesporthd3",
+                    "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4102.png",
+                   "url": "https://smart-tv.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8"
+ },
+    {
           "name": "truesporthd3",
                     "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4102.png",
                    "url": "https://www.goalclublive.com/LiveTable/channel/truesporthd3",
